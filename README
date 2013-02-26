@@ -1,0 +1,6 @@
+tools to search for czech eshops and examples how to get information to xls
+
+USAGE
+perl search_google.pl entity
+
+entity may be 3 words long
